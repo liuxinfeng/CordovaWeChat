@@ -1,0 +1,4 @@
+#Sat Nov 03 00:06:13 CST 2018
+base.0=F\:\\Dev\\WechatforAPad\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
